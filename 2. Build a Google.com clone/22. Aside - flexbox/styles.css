@@ -5,3 +5,6 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.nav-wrapper{
+    display: flex;
+}
